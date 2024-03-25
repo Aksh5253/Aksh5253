@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Akash 
 <h3 align="center">A passionate web Developer from India</h3>
 
-<img align="right" alt="coding"  width="400" src=" https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif">
+ <img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=4fNBO%2fUD&id=6947F6B7BE31C0B9956BBE87CADE3E384F095CDC&thid=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&mediaurl=https%3a%2f%2fgranroyalleigarape.com.br%2fwp-content%2fuploads%2f2021%2f05%2fprogrammer.gif&exph=600&expw=800&q=anime+coding+gif&simid=608044276044878003&FORM=IRPRST&ck=C350E31F75EC82DA743528530FB57E2A&selectedIndex=44&itb=0"/>
  <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=aksh5253&label=Profile%20views&color=0e75b6&style=flat" alt="aksh5253" /> 
 </p>
